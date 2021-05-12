@@ -1,0 +1,10 @@
+C:\Users\sgola\source\repos\testServiceModel\testServiceModel\bin\Debug\testServiceModel.exe.config
+C:\Users\sgola\source\repos\testServiceModel\testServiceModel\bin\Debug\testServiceModel.exe
+C:\Users\sgola\source\repos\testServiceModel\testServiceModel\bin\Debug\testServiceModel.pdb
+C:\Users\sgola\source\repos\testServiceModel\testServiceModel\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\sgola\source\repos\testServiceModel\testServiceModel\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\sgola\source\repos\testServiceModel\testServiceModel\obj\Debug\testServiceModel.csprojAssemblyReference.cache
+C:\Users\sgola\source\repos\testServiceModel\testServiceModel\obj\Debug\testServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\sgola\source\repos\testServiceModel\testServiceModel\obj\Debug\testServiceModel.csproj.CopyComplete
+C:\Users\sgola\source\repos\testServiceModel\testServiceModel\obj\Debug\testServiceModel.exe
+C:\Users\sgola\source\repos\testServiceModel\testServiceModel\obj\Debug\testServiceModel.pdb

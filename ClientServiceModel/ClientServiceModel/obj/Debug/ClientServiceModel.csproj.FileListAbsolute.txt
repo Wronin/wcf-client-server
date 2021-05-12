@@ -1,0 +1,10 @@
+C:\Users\sgola\source\repos\ClientServiceModel\ClientServiceModel\bin\Debug\ClientServiceModel.exe.config
+C:\Users\sgola\source\repos\ClientServiceModel\ClientServiceModel\bin\Debug\ClientServiceModel.exe
+C:\Users\sgola\source\repos\ClientServiceModel\ClientServiceModel\bin\Debug\ClientServiceModel.pdb
+C:\Users\sgola\source\repos\ClientServiceModel\ClientServiceModel\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\sgola\source\repos\ClientServiceModel\ClientServiceModel\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\sgola\source\repos\ClientServiceModel\ClientServiceModel\obj\Debug\ClientServiceModel.csprojAssemblyReference.cache
+C:\Users\sgola\source\repos\ClientServiceModel\ClientServiceModel\obj\Debug\ClientServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\sgola\source\repos\ClientServiceModel\ClientServiceModel\obj\Debug\ClientServiceModel.csproj.CopyComplete
+C:\Users\sgola\source\repos\ClientServiceModel\ClientServiceModel\obj\Debug\ClientServiceModel.exe
+C:\Users\sgola\source\repos\ClientServiceModel\ClientServiceModel\obj\Debug\ClientServiceModel.pdb
